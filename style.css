@@ -1,0 +1,34 @@
+.card {
+    max-width: fit-content;
+}
+.input__group {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.card-text {
+    margin: 0;
+    margin-right: 8px;
+    width: 200px;
+}
+
+input {
+    font-size: 16px;
+    margin-top: 8px;
+    width: fit-content;
+    border: 1px solid #cccccc;
+    font-weight: 400;
+    color: #888;
+    margin-right: 8px;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-bottom: 8px;
+    width: fit-content;
+}
+
+.logketqua {
+    margin-left: 20px;
+}
